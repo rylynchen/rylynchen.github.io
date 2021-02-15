@@ -14,7 +14,7 @@
       
       <guid>https://rylynchen.github.io/posts/my-first-post/</guid>
       <description>Title Content begin
-function printLog(string $content) : void { echo &amp;#34;$content\n&amp;#34;; } end 😄</description>
+function printLog(string $content) : void { echo &amp;#34;$content\n&amp;#34;; } end 💪</description>
     </item>
     
   </channel>
